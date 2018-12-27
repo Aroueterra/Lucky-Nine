@@ -4,7 +4,7 @@
 
 [PHP] Programming Exercise in PHP; A web app game simulating the basic functions in a round of lucky nine.
 
-<img align="right" width="370" height="85" src="https://raw.githubusercontent.com/Aroueterra/Lucky-Nine/master/lucker.png">
+<img align="right" width="370" height="85" src="https://raw.githubusercontent.com/Aroueterra/Lucky-Nine/master/%5BDemo1%5D%20Home%20page.PNG">
 
 
 ---
