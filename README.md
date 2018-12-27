@@ -20,6 +20,9 @@ The program was designed with the goal of utilizing PHP knowledge attained from 
 
 [![Front](https://raw.githubusercontent.com/Aroueterra/Lucky-Nine/master/%5BDemo1%5D%20Home%20page.PNG)]()
 
+<img src="https://raw.githubusercontent.com/Aroueterra/Lucky-Nine/master/%5BDemo2%5D%20Play%20page.PNG" width="678" height="330" align="center">
+
+<img src="https://raw.githubusercontent.com/Aroueterra/Lucky-Nine/master/%5BDemo3%5D%20Drawing%20cards.PNG" width="678" height="330" align="center">
 
 ## Installation
 
